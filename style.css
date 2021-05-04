@@ -1,0 +1,18 @@
+/*---- SlideBar ----*/
+.carousel-item {
+
+}
+
+/* info pamnel */
+.info-panel {
+	background-color: salmon;
+}
+
+.container .col {
+	margin-top: 30px;
+}
+.page-footer {
+	background-color: #0099ff;
+	padding-bottom: 40px;
+}
+
